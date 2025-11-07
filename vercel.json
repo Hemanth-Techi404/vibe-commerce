@@ -4,7 +4,6 @@
   "devCommand": "pnpm run dev",
   "installCommand": "pnpm install",
   "framework": "nextjs",
-  "nodeVersion": "20.x",
   "env": {
     "TURBOPACK": "0"
   }
